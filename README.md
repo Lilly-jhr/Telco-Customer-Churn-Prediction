@@ -11,7 +11,7 @@ Customer churn is a major challenge for telecommunication companies, leading to 
 ## Dataset
 
 The dataset used is the popular **Telco Customer Churn** dataset, commonly found on Kaggle.
-*   **Source:** [Link to Kaggle Dataset (Optional but Recommended)](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+*   **Source:** [Link to Kaggle Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 *   **Content:** Contains information about ~7000 customers, including:
     *   Demographics (gender, senior citizen status, partner, dependents)
     *   Account information (tenure, contract type, payment method, paperless billing, charges)
